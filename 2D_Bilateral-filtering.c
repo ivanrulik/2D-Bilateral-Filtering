@@ -1,14 +1,7 @@
-/********************************************************
-***IMPORTANT NOTE***
-If you have problems with the provided sample code,
-part of the reason might be due to the function "fopen".
-Please try changing "r/w" to "rb/wb" or the other way
-when you use this function.
-*********************************************************/
 
 /*
-CS712 Image Processing
-Project 2 Bilateral Filtering Images
+Image Processing
+Bilateral Filtering Images
 Ivan Alexander Rulik Cote
 10/10/2021
 */
